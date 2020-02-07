@@ -1,5 +1,4 @@
-parent = 0
-while(parent<1):
+while(True):
     userVal = input("Enter the string...\n")
     enMeth = int(input("select the encryption type ...\n1 - Swapping by position  ...\n2 - Change position ...\n3 - Opposite switch ...\n"))
     while(True):
